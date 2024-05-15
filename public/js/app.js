@@ -23324,7 +23324,7 @@
             }
           }
           function $() {
-            var t = "Marzipano Tool";
+            var t = "Jcloudwork Pano";
             null != W() &&
               W() < 1 &&
               (t = "(" + (100 * W()).toFixed(0) + "%) " + t);
